@@ -3,29 +3,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Vous+tombez+bien+sur+le+personne+que+vous+cherche;je+jsuis+un+d&eacute;v&eacute;loppeur+web;passionn&eacute;"></a>
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Vous+tombez+bien;je+suis+un+d&eacute;v&eacute;loppeur+web;passionn&eacute;et;cr&eacute;ative;"></a>
 </p>
 
 ---
 <div align="center">
   
-# 💫About Me :
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
-  
-🌱 I’m currently learning : Node.js
-
-  👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
-
+# 💫A propos de moi :
+  🔭 Dévéloppeur web chez <a href="www.medialibs.com" target="_blank">medialibs</a> 
 
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
