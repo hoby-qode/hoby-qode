@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoby-qode" alt="hoby-qode" /></a> </p>
 
-- 🔭 Je travaille actuellement chez Medialibs [Collaborateur chez Medialibs](medialibs.com)
+- 🔭 Je travaille actuellement chez Medialibs <a href="https://www.medialibs.com/" target="blank">Collaborateur chez Medialibs</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
